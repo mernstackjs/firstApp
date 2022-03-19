@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.header {
+  background-color: black;
+}
+.textLogo {
+  color: white;
+  font-size: 36px;
+}
